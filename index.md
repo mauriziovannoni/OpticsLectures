@@ -1,6 +1,6 @@
 ## Welcome to Maurizio Vannoni's GitHub Pages
 
 
-[Optics lectures](OpticsLectures.md)
+[Optics lectures](MaxwellEquationsInOptics.md)
 
 
